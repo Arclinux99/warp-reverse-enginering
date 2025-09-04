@@ -1,4 +1,4 @@
-<a href="https://www.waveterm.dev">
+<a
 	<picture>
 		<source media="(prefers-color-scheme: dark)" srcset="./assets/wave-dark.png">
 		<source media="(prefers-color-scheme: light)" srcset="./assets/wave-light.png">
