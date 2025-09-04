@@ -7,7 +7,7 @@
   		 <img width="1024" alt="Warp Agentic Development Environment product preview" src="https://storage.googleapis.com/warpdotdev-content/Readme.png">
 	</picture>
   </a>
-  <br/>
+
 </p>
   <a href="https://www.warp.dev">
     <img width="1024" alt="Warp Agentic Development Environment product preview" src="https://storage.googleapis.com/warpdotdev-content/Readme.png">
